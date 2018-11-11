@@ -4,5 +4,5 @@
 
 layout: home
 redirect_to:
-   - https://2017.polictf.it/leaderboard.html
+   - http://2017.polictf.it/leaderboard.html
 ---
